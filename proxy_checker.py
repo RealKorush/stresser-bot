@@ -5,7 +5,8 @@ import time
 
 # تنظیمات
 test_url = "http://httpbin.org/ip"  # URL برای تست پروکسی
-proxies_to_check = [    "http://185.105.102.189:80",
+proxies_to_check = [
+    "http://185.105.102.189:80",
     "http://219.65.73.81:80",
     "http://18.141.140.10:443",
     "http://209.97.150.167:8080",
